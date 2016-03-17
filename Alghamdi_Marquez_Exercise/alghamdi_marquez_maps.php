@@ -2,7 +2,7 @@
 <html>
 <head>
 	<title>Alghamdi Marquez Google Maps Exercise</title>
-	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=AIzaSyASEZAtlUss5b7_i1M-IuC6rx1h2Z6EN7Y"></script>
+	<script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?key=API_KEY"></script>
 	<script type="text/javascript">
 		var markerData = [];
 		var mallCoordinates = [];
